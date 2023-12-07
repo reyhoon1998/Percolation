@@ -23,7 +23,7 @@ This way, we only need to change a number in a one-dimensional array, instead of
 This reduces the time and space complexity of the algorithm.
 ### Percolation Probability
 Percolation probability is the probability that there exists a path of open nodes from one side of the lattice to another, denoted by Q.
-This probability exhibits critical behavior, meaning that it changes abruptly from 0 to 1 at a certain value of p. 
+This probability exhibits critical behavior,meaning that it changes abruptly from 0 to 1 at a certain value of p. 
 
 
 In the last part of this assignment, I analyzed the percolation probability using the Hoshen-Kopelman algorithm, 
